@@ -1,0 +1,25 @@
+healthy
+1 - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fru%2F%25D1%2584%25D0%25BE%25D1%2582%25D0%25BE%2F%25D1%2580%25D0%25B5%25D0%25BD%25D1%2582%25D0%25B3%25D0%25B5%25D0%25BD-%25D0%25BA%25D0%25BE%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B0-%25D0%25B7%25D0%25B4%25D0%25BE%25D1%2580%25D0%25BE%25D0%25B2%25D0%25BE%25D0%25B3%25D0%25BE-%25D0%25B2%25D0%25B7%25D1%2580%25D0%25BE%25D1%2581%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25BE-%25D1%2587%25D0%25B5%25D0%25BB%25D0%25BE%25D0%25B2%25D0%25B5%25D0%25BA%25D0%25B0-%25D0%25B6%25D0%25B5%25D0%25BD%25D1%2589%25D0%25B8%25D0%25BD-gm148232505-7698184&psig=AOvVaw1lyJpTjfzo1eZ0JJVaEjno&ust=1768341761012000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCL6oX9hpIDFQAAAAAdAAAAABAL
+2 - https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.freepik.com%2Fpremium-photo%2Ffilm-x-ray-normal-human-s-knee-joint-front-view_2147565.htm&psig=AOvVaw0rq1-Usw9vNBRYWfQf-fRA&ust=1768342103353000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjvlan-hpIDFQAAAAAdAAAAABAE
+3 - https://www.theodorideskneesurgeon.com/knee-arthritis
+4 - 
+early
+1 - https://radiopaedia.org/cases/osteoarthritis-knees?utm_source=chatgpt.com
+2 - https://radiopaedia.org/cases/osteoarthritis-knees?utm_source=chatgpt.com
+3 - https://radiopaedia.org/cases/osteoarthritis?lang=us
+4 - https://emedicine.medscape.com/article/1930582-overview?utm_source=chatgpt.com&form=fpf
+5 - https://emedicine.medscape.com/article/1930582-overview?utm_source=chatgpt.com&form=fpf
+6 - https://emedicine.medscape.com/article/1930582-overview?utm_source=chatgpt.com&form=fpf
+7 - https://emedicine.medscape.com/article/1930582-overview?utm_source=chatgpt.com&form=fpf
+8 - https://radiopaedia.org/cases/osteoarthritis-of-knee?utm_source=chatgpt.com
+9 - https://radiopaedia.org/cases/normal-knee-radiograph-with-skyline-view?utm_source=chatgpt.com
+10 - https://www.radiologymasterclass.co.uk/tutorials/musculoskeletal/imaging-joints-bones/osteoarthritis?utm_source=chatgpt.com
+
+
+severe
+1 - https://emedicine.medscape.com/article/1930582-overview?utm_source=chatgpt.com&form=fpf
+2 - https://emedicine.medscape.com/article/1930582-overview?utm_source=chatgpt.com&form=fpf
+3 - https://emedicine.medscape.com/article/1930582-overview?utm_source=chatgpt.com&form=fpf
+4 - https://radiopaedia.org/cases/knee-joint-osteoarthritis?utm_source=chatgpt.com
+5 - https://radiopaedia.org/cases/osteoarthritis-of-the-knee-5?utm_source=chatgpt.com
+6 - https://radiopaedia.org/cases/pellegrini-stieda-lesion-45?utm_source=chatgpt.com
